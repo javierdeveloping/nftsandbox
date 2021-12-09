@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "name": "Water",
-  "description": "don't drown",
+  "id": 30,
+  "name": "Superhuman",
+  "description": "Fly",
   "image": "https://github.com/javierdeveloping/nftsandbox/raw/main/superpower.png",
   "attributes": [
     {
