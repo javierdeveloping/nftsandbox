@@ -1,0 +1,52 @@
+{
+  "id": 50,
+  "name": "Take off",
+  "description": "Take off",
+  "image": "https://github.com/javierdeveloping/nftsandbox/raw/main/takeoff.png",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Take off"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Motor",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 50
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Happy"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Strength",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 5
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1546880800
+    }
+  ]
+}
